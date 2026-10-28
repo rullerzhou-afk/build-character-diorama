@@ -30,7 +30,7 @@ git clone "仓库克隆地址" ~/.codex/skills/build-character-diorama
 
 ## 包含什么
 
-这个方法包只有文字：`SKILL.md`、`agents/openai.yaml` 和 `references/` 下的 8 篇参考文档，内容来自 v9。
+这个方法包只有文字：`SKILL.md`、`agents/openai.yaml` 和 `references/` 下的 8 篇参考文档。
 
 不包含素材、角色图、场景代码或成品作品。使用时需要为自己的角色和场景准备或生成素材。
 
