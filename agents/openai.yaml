@@ -1,0 +1,4 @@
+interface:
+  display_name: "制作角色互动小场景"
+  short_description: "从原创角色与场景设定出发，制作并逐轮验收可交互的微缩场景网页"
+  default_prompt: "使用 $build-character-diorama 为一个全新角色制作可交互的微缩场景，先明确风格与动作，再生成素材、搭建场景并实际验收。"
